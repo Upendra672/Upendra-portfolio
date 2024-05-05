@@ -26,7 +26,7 @@ export default async function Home() {
   const blogs = await getData();
 
   return (
-    <>
+    <div className="overflow-hidden">
       <HeroSection />
       <AboutSection />
       <Experience />
@@ -35,6 +35,6 @@ export default async function Home() {
       <Education />
       {/* <Blog blogs={blogs} /> */}
       <ContactSection />
-    </>
+    </div>
   )
 };

@@ -9,7 +9,7 @@ function Navbar() {
         <div className="flex flex-shrink-0 items-center">
           <Link
             href="/"
-            className=" text-[#16f2b3] text-3xl font-bold" style={{ fontFamily: 'Dancing Script, cursive' }}>
+            className=" text-[#16f2b3] text-[28px] lg:text-3xl font-bold" style={{ fontFamily: 'Dancing Script, cursive' }}>
             UPENDRA YADAV
           </Link>
         </div>
