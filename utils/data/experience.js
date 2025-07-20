@@ -1,9 +1,15 @@
 export const experiences = [
   {
+    id:0,
+    title: 'Software Engineer',
+    company: "Bosleo Technology Private Ltd.",
+    duration: "( Dec 2024 - Present )"
+  },
+  {
     id: 1,
     title: 'Junior Software Engineer',
     company: "Vrutti Techologies Private Ltd.",
-    duration: "( Jan 2024 - Present )"
+    duration: "( Jan 2024 - Dec-2024 )"
   },
   {
     id: 2,
