@@ -3,6 +3,7 @@ export const skillsData = [
   'CSS',
   'Javascript',
   'Typescript',
+  'Angular'
   'React',
   'Next JS',
   'Tailwind',
@@ -11,7 +12,7 @@ export const skillsData = [
   'Git',
   'Bootstrap',
   'Markdown',
-  'Java',
+  'C++',
   'Figma',
   'Firebase',
   'MaterialUI',
